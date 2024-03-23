@@ -83,6 +83,9 @@ endmodule
  ~~~
 
 **Logic symbol & Truthtable**
+
+![image](https://github.com/keerthanapillaram/study-of-basic-gates/assets/145743072/b5596b3f-aed6-41e4-8046-d3148de0af69)
+
 ![image](https://github.com/keerthanapillaram/study-of-basic-gates/assets/145743072/c27b0a4a-e6bd-4064-b214-e65fcf5b5303)
 
 
