@@ -96,5 +96,6 @@ endmodule
 
 
 **Result:**
+
 Thus,the truth table of logic gates has been studied and verified in Quartus II using Verilog programming.
 
