@@ -81,18 +81,20 @@ nand g6(nand_out,a,b);
 nor g7(nor_out,a,b);
 endmodule 
  ~~~
+![Screenshot 2024-03-07 093452](https://github.com/Meenu2823/study-of-basic-gates/assets/139416219/e9ebc1d6-89de-4a77-846e-84fcffa9c6e2)
 
 **Logic symbol & Truthtable**
 
-![image](https://github.com/keerthanapillaram/study-of-basic-gates/assets/145743072/b5596b3f-aed6-41e4-8046-d3148de0af69)
+![Logic gates symbol](https://github.com/Meenu2823/study-of-basic-gates/assets/139416219/62d3f155-880d-4140-a853-209b84b384df)
 
 ![image](https://github.com/keerthanapillaram/study-of-basic-gates/assets/145743072/c27b0a4a-e6bd-4064-b214-e65fcf5b5303)
 
-
 **RTL realization Output:** 
+![image](https://github.com/Meenu2823/study-of-basic-gates/assets/139416219/8ce8fb81-8518-49f0-9eb5-1e6d8bf99339)
 
-**RTL**
+![Screenshot 2024-03-07 093359](https://github.com/Meenu2823/study-of-basic-gates/assets/139416219/1b2064ba-6524-43cd-8e46-53e43d2da502)
+
 
 **Result:**
-
+Thus,the truth table of logic gates has been studied and verified in Quartus II using Verilog programming.
 
